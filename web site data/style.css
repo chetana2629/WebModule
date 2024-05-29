@@ -1,0 +1,23 @@
+/* Css Code */
+.logo{
+    background-color: rgb(146, 146, 223) !important;
+    
+      
+      
+}
+
+.aside-list li{
+    list-style-type: none !important;
+}
+
+.foot{
+    background-color: black !important;
+    color: aliceblue;
+    height: 70px;
+}
+
+@media screen and (max-width: 800px) {
+    .body {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+  }
