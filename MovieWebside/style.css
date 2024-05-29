@@ -1,0 +1,20 @@
+.navbar{
+    background-color: gray !important;
+}
+
+button{
+    background-color: rgb(152, 151, 151) !important;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+a{
+    color: white !important;
+}
+
+.col-xl-3{
+    color: white !important;
+}
