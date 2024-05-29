@@ -1,0 +1,31 @@
+@media screen and (min-width: 1200px) {
+    .container{
+        width:1000px;
+        margin:auto;
+        display:flex;
+        flex-wrap: wrap;
+    }
+    .col{
+        width:25%;
+    }
+    .col img{
+        width:100%;
+    }
+}
+@media screen and (max-width: 600px) {
+    .container{
+        background-color: coral;
+        /* border:solid; */
+        width:100%;
+        margin:auto;
+        display:flex;
+        flex-wrap: wrap;
+    }
+    .col{
+        width:50%;
+    }
+    .col img{
+        width:100%;
+    }
+}
+

@@ -1,0 +1,17 @@
+.container{
+    border:solid;
+    width:1000px;
+    margin:auto;
+    display:flex;
+}
+.col{
+    width:33.33%;
+    padding:20px;
+}
+.col1{
+    width:25%;
+    padding: 10px;
+}
+.col1 img{
+    width: 100%;
+}

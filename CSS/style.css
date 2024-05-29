@@ -1,0 +1,23 @@
+.container{
+    border:solid;
+    width:1200px;
+    margin:auto;
+    display:flex;
+}
+.col1{
+    width:25%;
+    padding: 10px;
+}
+.col1 img{
+    width: 100%;
+}
+/* .container{
+    border:solid;
+    width:45%;
+    display:flex;
+
+}
+.col{
+    width:33.33%;
+    padding:20px;
+} */
